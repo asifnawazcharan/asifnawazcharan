@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @asifnawazcharan
 - 
--  I’m interested in automation, content creation using programming, web-development, 
--  and creating apps that serve some useful function
+-  I’m interested in automation, content creation using programming, web-development, and creating apps that serve some useful function
 - 
 -  I’m currently learning content creation using python.
 -  
